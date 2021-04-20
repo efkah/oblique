@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.75 24.75">
+   <defs>
+      <style>.cls-1{fill:none;stroke:#171717;stroke-miterlimit:10;stroke-width:0.75px;}.cls-2{fill:#171717;}</style>
+   </defs>
+   <title>Barcode</title>
+   <g>
+      <rect class="cls-2" x="7.4831753" y="7.187057" width="0.79921514" height="7.8979988" />
+      <rect class="cls-2" x="16.665442" y="7.187057" width="0.79921514" height="7.8979988" />
+      <rect class="cls-2" x="8.6590929" y="7.187057" width="0.79921514" height="7.8979988" />
+      <rect class="cls-2" x="5.731482" y="7.187057" width="0.33583888" height="7.8979988" />
+      <rect class="cls-1" x="0.55468363" y="0.52084363" width="24" height="24" />
+      <path class="cls-2" d="M 4.2249786,19.285573 20.807883,19.229636 20.762151,5.7106444 4.1792456,5.7665814 Z M 20.014787,6.4631483 20.055228,18.482121 4.9723046,18.533141 4.9318646,6.514168 Z" />
+      <path class="cls-2" d="M 17.429665,15.844265 H 7.6796936 l 0.03024,1.997642 h 9.7500094 z m -0.718034,1.247633 H 8.4616392 l -0.03024,-0.497661 h 8.2500288 z" />
+      <rect class="cls-2" x="6.8441324" y="7.187057" width="0.33583888" height="7.8979988" />
+      <rect class="cls-2" x="17.830914" y="7.187057" width="0.79921514" height="7.8979988" />
+      <rect class="cls-2" x="12.593315" y="7.187057" width="0.33583888" height="7.8979988" />
+      <rect class="cls-2" x="11.427875" y="7.187057" width="0.33583888" height="7.8979988" />
+      <rect class="cls-2" x="10.312428" y="7.187057" width="0.33583888" height="7.8979988" />
+      <rect class="cls-2" x="9.7366829" y="7.187057" width="0.33583888" height="7.8979988" />
+      <rect class="cls-2" x="14.290865" y="7.187057" width="0.33583888" height="7.8979988" />
+      <rect class="cls-2" x="16.020376" y="7.187057" width="0.33583888" height="7.8979988" />
+      <rect class="cls-2" x="13.235062" y="7.187057" width="0.33583888" height="7.8979988" />
+      <rect class="cls-2" x="18.926908" y="7.187057" width="0.33583888" height="7.8979988" />
+      <rect class="cls-2" x="14.970408" y="7.187057" width="0.33583888" height="7.8979988" />
+   </g>
+</svg>
